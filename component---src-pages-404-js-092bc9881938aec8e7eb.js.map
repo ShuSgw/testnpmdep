@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-404-js-092bc9881938aec8e7eb.js","mappings":"uKAEe,SAASA,IACtB,OAAOC,EAAAA,cAAA,WAAK,MACd,C","sources":["webpack://sgw_studio/./src/pages/404.js"],"sourcesContent":["import React from \"react\";\n\nexport default function NotFound() {\n  return <div>404</div>;\n}\n"],"names":["NotFound","React"],"sourceRoot":""}
